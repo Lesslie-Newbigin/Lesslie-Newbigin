@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=800&lines=COFPS+Certified+%7C+Fortinet+NSE-3+FCA;Ethical+Hacker+%7C+Penetration+Tester;Network+Security+%7C+IoT+Security;NCRP+Volunteer+%7C+Tiruppur+Cyber+Crime+Wing;Learn+%E2%86%92+Enumerate+%E2%86%92+Exploit+%E2%86%92+Patch)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=800&lines=COFPS+Certified+%7C+Fortinet+NSE-3+FCA;Ethical+Hacker+%7C+Penetration+Tester;Network+Security+%7C+IoT+Security;NCRP+Volunteer+%7C+Tiruppur+Cyber+Crime+Wing)](https://readme-typing-svg.demolab.com)
 
 <br/>
 
@@ -36,7 +36,7 @@ class CyberSecurityResearcher:
         "[DONE] COFPS - Certified Online Fraud Prevention Specialist",
         "[DONE] Fortinet NSE-3 FCA - Network Security Expert",
         "[DONE] Lean Six Sigma AI Yellow Belt (UNITAR)",
-        "[DONE] 10+ Certs - UNITAR, HP & Partner Orgs",
+        "[DONE] 10+ Certs - UNITAR, HP & Partners",
         "[WIP]  CEH - Certified Ethical Hacker",
         "[WIP]  HAM Amateur Radio License",
     ]
@@ -61,36 +61,25 @@ class CyberSecurityResearcher:
 
 ---
 
-## 🛡️ Certifications
+## 🏅 Certifications
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+### Completed
 
-### ✅ Completed
+[![COFPS](https://img.shields.io/badge/COFPS-Certified_Online_Fraud_Prevention_Specialist-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/Lesslie-Newbigin)
 
-![COFPS](https://img.shields.io/badge/COFPS-Certified%20Online%20Fraud%20Prevention%20Specialist-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)
+[![NSE3](https://img.shields.io/badge/Fortinet_NSE--3_FCA-Network_Security_Expert-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)](https://github.com/Lesslie-Newbigin)
 
-![NSE3](https://img.shields.io/badge/Fortinet%20NSE--3-FCA%20Network%20Security%20Expert-red?style=for-the-badge&logo=fortinet&logoColor=white)
+[![UNITAR](https://img.shields.io/badge/Lean_Six_Sigma_AI-Yellow_Belt_%7C_UNITAR-f5a623?style=for-the-badge&logo=academia&logoColor=black)](https://github.com/Lesslie-Newbigin)
 
-![UNITAR](https://img.shields.io/badge/Lean%20Six%20Sigma%20AI-Yellow%20Belt%20--%20UNITAR-yellow?style=for-the-badge&logo=academia&logoColor=black)
+[![CERTS](https://img.shields.io/badge/10%2B_Certifications-UNITAR_%7C_HP_%7C_Partners-0075ca?style=for-the-badge&logo=coursera&logoColor=white)](https://github.com/Lesslie-Newbigin)
 
-![10CERTS](https://img.shields.io/badge/10%2B%20Certifications-UNITAR%20%7C%20HP%20%7C%20Partners-blue?style=for-the-badge&logo=coursera&logoColor=white)
+### In Progress
 
-</td>
-<td align="center" width="50%">
+[![CEH](https://img.shields.io/badge/CEH-Certified_Ethical_Hacker_%7C_EC--Council-7B2FBE?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/Lesslie-Newbigin)
 
-### 🔄 In Progress
-
-![CEH](https://img.shields.io/badge/CEH-Certified%20Ethical%20Hacker-blueviolet?style=for-the-badge&logo=hackthebox&logoColor=white)
-
-![HAM](https://img.shields.io/badge/HAM%20Radio-Amateur%20Radio%20License-orange?style=for-the-badge&logo=rss&logoColor=white)
-
-</td>
-</tr>
-</table>
+[![HAM](https://img.shields.io/badge/HAM_Radio-Amateur_Radio_License-FF6600?style=for-the-badge&logo=rss&logoColor=white)](https://github.com/Lesslie-Newbigin)
 
 </div>
 
@@ -115,9 +104,14 @@ class CyberSecurityResearcher:
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
+**Certified Platforms**
+
+![Fortinet](https://img.shields.io/badge/Fortinet_NSE--3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![COFPS](https://img.shields.io/badge/COFPS_Certified-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white)
+
 **Operating Systems**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -126,13 +120,30 @@ class CyberSecurityResearcher:
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge&logo=cisco&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS-FF6C37?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![HTTP/S](https://img.shields.io/badge/HTTP%2FS-005AF0?style=for-the-badge&logo=http&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet%20NSE--3-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 
-**Hardware & IoT Security**
+**Hardware & IoT**
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+</div>
+
+---
+
+## ⚡ Skill Level
+
+<div align="center">
+
+| Domain | Status | Level |
+|:-------|:-------|:-----:|
+| Network Security | ![](https://img.shields.io/badge/NSE--3_Certified-EE3124?style=flat-square&logo=fortinet&logoColor=white) | ▰▰▰▱▱ |
+| Fraud Prevention | ![](https://img.shields.io/badge/COFPS_Certified-2ea44f?style=flat-square&logo=checkmarx&logoColor=white) | ▰▰▰▰▱ |
+| Penetration Testing | ![](https://img.shields.io/badge/Advancing-70A5FD?style=flat-square&logo=hackthebox&logoColor=white) | ▰▰▰▱▱ |
+| Linux / Kali | ![](https://img.shields.io/badge/Intermediate-557C94?style=flat-square&logo=kalilinux&logoColor=white) | ▰▰▰▱▱ |
+| Hardware / IoT | ![](https://img.shields.io/badge/Exploring-E7352C?style=flat-square&logo=espressif&logoColor=white) | ▰▰▱▱▱ |
+| Digital Forensics | ![](https://img.shields.io/badge/Learning-BF91F3?style=flat-square&logo=databricks&logoColor=white) | ▰▰▱▱▱ |
+| OSINT | ![](https://img.shields.io/badge/Practising-38BDAE?style=flat-square&logo=duckduckgo&logoColor=white) | ▰▰▰▱▱ |
 
 </div>
 
@@ -174,27 +185,19 @@ class CyberSecurityResearcher:
 
 ---
 
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Lesslie-Newbigin&theme=tokyonight&column=4&margin-w=15&margin-h=15)](https://github.com/Lesslie-Newbigin)
-
-</div>
-
----
-
 ## 💼 Experience
 
 <details>
 <summary><strong>NCRP — National Cybercrime Reporting Portal Volunteer</strong> &nbsp;·&nbsp; May 2025 → Present &nbsp;·&nbsp; India (Remote)</summary>
 <br/>
 
-> ![badge](https://img.shields.io/badge/Cybercrime_Awareness-70A5FD?style=flat-square&labelColor=0d1117) ![badge](https://img.shields.io/badge/Public_Safety-BF91F3?style=flat-square&labelColor=0d1117) ![badge](https://img.shields.io/badge/NCRP_Portal-38BDAE?style=flat-square&labelColor=0d1117)
+![badge](https://img.shields.io/badge/Cybercrime_Awareness-70A5FD?style=flat-square&labelColor=0d1117)
+![badge](https://img.shields.io/badge/Public_Safety-BF91F3?style=flat-square&labelColor=0d1117)
+![badge](https://img.shields.io/badge/NCRP_Portal-38BDAE?style=flat-square&labelColor=0d1117)
 
 - Promoted national-level cybercrime awareness and safe online practice campaigns
 - Guided citizens through the NCRP official complaint filing process
-- Identified and escalated suspicious online activities to relevant authorities
+- Identified and escalated suspicious online activities to authorities
 - Contributed to digital safety outreach programs across India
 
 </details>
@@ -203,7 +206,9 @@ class CyberSecurityResearcher:
 <summary><strong>Tiruppur District Cyber Crime Wing — Active Volunteer</strong> &nbsp;·&nbsp; Dec 2025 → Present &nbsp;·&nbsp; Tiruppur, TN</summary>
 <br/>
 
-> ![badge](https://img.shields.io/badge/Cyber_Investigations-70A5FD?style=flat-square&labelColor=0d1117) ![badge](https://img.shields.io/badge/Digital_Forensics-BF91F3?style=flat-square&labelColor=0d1117) ![badge](https://img.shields.io/badge/Law_Enforcement_Support-EE3124?style=flat-square&labelColor=0d1117)
+![badge](https://img.shields.io/badge/Cyber_Investigations-70A5FD?style=flat-square&labelColor=0d1117)
+![badge](https://img.shields.io/badge/Digital_Forensics-BF91F3?style=flat-square&labelColor=0d1117)
+![badge](https://img.shields.io/badge/Law_Enforcement_Support-EE3124?style=flat-square&labelColor=0d1117)
 
 - Contributing to district cyber awareness drives and public digital safety campaigns
 - Assisting in community education programs on digital security hygiene
@@ -230,14 +235,14 @@ class CyberSecurityResearcher:
 
 ---
 
-## 🏅 Achievements
+## 🏆 Achievements
 
 <div align="center">
 
 | | Achievement | Details |
 |:---:|:------------|:--------|
 | ✅ | **COFPS — Certified Online Fraud Prevention Specialist** | Fraud detection, threat analysis and prevention |
-| ✅ | **Fortinet NSE-3 FCA — Network Security Expert** | Enterprise threat landscape and Fortinet security architecture |
+| ✅ | **Fortinet NSE-3 FCA — Network Security Expert** | Enterprise threat landscape and security architecture |
 | ✅ | **10+ Professional Certifications** | UNITAR · HP — incl. Lean Six Sigma AI Yellow Belt |
 | ⚔️ | **Kaaval Hackathon — 3 Projects** | Cybersecurity · Digital Forensics · AI domains |
 | 🤝 | **NCRP National Volunteer** | Active since May 2025 |
@@ -264,13 +269,13 @@ Digital Forensics             ->  Evidence Handling, Chain of Custody, Memory An
 
 ---
 
-## 📬 Connect With Me
+## 📬 Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lesslie-newbigin-1969ba357)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=70a5fd)](https://lesslie-newbigin.github.io)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lessliehkrl@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lessliehkrl@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lesslie-Newbigin)
 
 <br/>
