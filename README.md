@@ -186,9 +186,7 @@ class CyberSecurityResearcher:
 
 </details>
 
-<details>
-<summary><strong>Tiruppur District Cyber Crime Wing — Active Volunteer</strong> &nbsp;·&nbsp; Dec 2025 → Present &nbsp;·&nbsp; Tiruppur, TN</summary>
-<br/>
+
 
 ![badge](https://img.shields.io/badge/Cyber_Investigations-70A5FD?style=flat-square&labelColor=0d1117)
 ![badge](https://img.shields.io/badge/Digital_Forensics-BF91F3?style=flat-square&labelColor=0d1117)
