@@ -173,23 +173,7 @@ class CyberSecurityResearcher:
 
 </div>
 
----
 
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lesslie-Newbigin&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Lesslie-Newbigin)
-
-</div>
-
----
-
-## 💼 Experience
-
-<details>
-<summary><strong>NCRP — National Cybercrime Reporting Portal Volunteer</strong> &nbsp;·&nbsp; May 2025 → Present &nbsp;·&nbsp; India (Remote)</summary>
-<br/>
 
 ![badge](https://img.shields.io/badge/Cybercrime_Awareness-70A5FD?style=flat-square&labelColor=0d1117)
 ![badge](https://img.shields.io/badge/Public_Safety-BF91F3?style=flat-square&labelColor=0d1117)
